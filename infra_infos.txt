@@ -1,0 +1,4 @@
+depend: EXT_gzstream url_reader
+CFLAGS:-Wall -g -ansi -pedantic
+LDFLAGS:
+
